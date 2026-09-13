@@ -40,16 +40,3 @@ lib/
     ├── profile_screen.dart
     └── settings_screen.dart
 
-## How to run
-
-Open a terminal in VS Code and run:
-
-flutter pub get
-flutter run
-
-If you are starting from a new Flutter project:
-
-flutter create studybuddy
-cd studybuddy
-
-Then replace the lib folder and pubspec.yaml with the files from this project.
